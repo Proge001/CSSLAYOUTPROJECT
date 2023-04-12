@@ -1,0 +1,572 @@
+.navbar{
+    margin-left: 17px;
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+.logo{
+    margin-right: 320px;
+    
+}
+.navtools ul {
+    display: flex;
+    margin-left: 166px;
+    margin-top: 4px;
+}
+
+.navtools ul li{
+    margin-left: 14px;
+    list-style: none;
+    font-size: 16px;
+}
+
+#about{
+    color: #49cfbdf8;
+}
+
+#career{
+    color: #a09d8e;
+}
+
+#departments{
+    color: #a09d8e;
+}
+
+.logo2{
+    display: flex;
+    justify-content: center;
+    margin-top: 82px;
+    margin-right: 15px;
+}
+
+.nextline p{
+    color: #49cfbdf8;
+    display: flex;
+    justify-content: center;
+    padding-top: 14px;
+    font-size: 45px;
+    font-family: quicksand;
+    font-style: light;
+    padding-right: 18px;
+}
+
+.twoparagraphs{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    color: #a09d8e;
+    font-size: 15px;
+}
+
+.twoparagraphs .p1{
+    margin-right: 40px;
+}
+
+.twoparagraphs .p2{
+    margin-right: 40px;
+}
+
+.forsection{
+    display: flex;
+    justify-content: center;
+    padding-top: 40px;
+    padding-left: 12%;
+    padding-right: 12%;
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.logo3{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.for1 .patients{
+    margin-left: 30px;
+    margin-right: 10px;
+    font-size: 17px;
+}
+
+
+.for1{
+    color: white;
+    background-color: #49cfbdf8;
+    margin-right: 30px;
+}
+
+.logo4{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.for2 .doctors{
+    margin-right: 10px;
+    margin-left: 30px;
+    font-size: 17px;
+}
+
+.for2{
+    color: white;
+    background-color: #2F58CD;
+}
+
+.logo5{
+    display: flex;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+
+.for3 .clinics{
+    margin-left: 30px;
+    font-size: 17px;
+}
+
+.for3{
+    color: white;
+    background-color: #181823;
+    margin-left: 30px;
+}
+
+.sel1{
+    background-color: #49cfbdf8;
+    margin-left: 30px;
+    margin-top: 80px;
+    color: white;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+.sel2{
+    background-color: #2F58CD;
+    margin-left: 30px;
+    margin-top: 80px;
+    color: white;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+.sel3{
+    background-color: #181823;
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    color: white;
+    font-size: 17px;
+    text-decoration: underline;
+}
+
+.sel4{
+    background-color: #181823;
+    margin-bottom: 20px;
+    margin-left: 30px;
+    color: white;
+    font-size: 17px;
+    text-decoration: underline;
+}
+.section3starts {
+    display: flex;
+}
+
+.section3starts p{
+    display: flex;
+    color: #49cfbdf8;
+    justify-content: flex-start;
+    font-size: 19px; 
+    margin-top: 30px;
+    margin-left: 200px;
+}
+
+.logo6 ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    margin-left: 368px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+
+.logo6 ul li{
+    margin-left: 45px;
+}
+
+.logo8 ul{
+    margin-right: 255px;
+}
+
+.section4{
+    display: flex;
+    background-color: #a1e9d2;
+}
+
+.section4header h2{
+    color: #49cfbdf8;
+    margin-left: 160px;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+
+.section4header p{
+    color: #a09d8e;
+    margin-left: 160px;
+    margin-top: 70px;
+}
+
+.logo9{
+    margin-top: 110px;
+    margin-left: 160px;
+}
+
+.section4side {
+    margin-left: 100px;
+}
+
+.firstbox{
+    display: flex;
+    width: 200px;
+    height: 240px;
+    background-color: white;
+    margin-top: 80px;
+    margin-left: 30px;
+    margin-right: 400px;
+}
+
+
+#leader h3{
+    margin-left: 40px;
+    color: #49cfbdf8;
+}
+
+.content1{
+    color: #a09d8e;
+    font-size: 12px;
+    margin-left: 12px;
+}
+
+#patients1 {
+    
+    width: 200px;
+    height: 240px;
+    background-color: white;
+    margin-bottom: 0px;
+    margin-left: 120px;
+    
+}
+
+#patients1 h3 {
+    margin-left: 30px;
+    color: #49cfbdf8;
+    margin-top: 25px;
+}
+
+
+
+#patients1 p {
+    color: #a09d8e;
+    font-size: 12px;
+    margin-left: 8px;
+    margin-top: 0px;
+}
+
+#appointments {
+    width: 400px;
+    height: 240px;
+    background-color: white;
+    margin-bottom: 0px;
+    margin-left: 120px;
+}
+
+#appointments h3 {
+    margin-right: 0px;
+    color: #49cfbdf8;
+    margin-top: 25px;
+}
+
+
+
+#appointments p {
+    color: #a09d8e;
+    font-size: 12px;
+    margin-left: 8px;
+    margin-top: 0px;
+}
+
+.secondbox {
+    display: flex;
+    margin-top: 30px;
+}
+
+#docsic {
+    width: 200px;
+    height: 240px;
+    background-color: white;
+    margin-bottom: 0px;
+    margin-left: 120px;
+}
+
+#docsic h3 {
+    margin-left: 30px;
+    color: #49cfbdf8;
+    margin-top: 25px;
+}
+
+#docsic p {
+    color: #a09d8e;
+    font-size: 12px;
+    margin-left: 8px;
+    margin-top: 0px;
+}
+
+.section5 {
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+}
+
+#writeup h3 {
+    color: #49cfbdf8;
+    justify-content: space-between;
+}
+
+#writeup p {
+    color: #a09d8e;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+
+.section6 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.country {
+    display: flex;
+}
+
+.country1:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.buttons {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+    text-decoration: none;
+    border-radius: 30px;
+}
+
+.country2:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.country2 {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.buttons2 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons2 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.country3:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.buttons3 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons3 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.section7 {
+    display: flex;
+    justify-content: center;
+}
+
+.country4:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.buttons4 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons4 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.country5:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.country5{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.buttons5 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons5 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.country6:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.buttons6 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons6 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.section8 {
+    display: flex;
+    justify-content: center;
+}
+
+.country7:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.buttons7 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons7 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.country8:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+.country8{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.buttons8 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons8 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.country9:hover {
+    background-color: transparent;
+    border: 2px solid rgb(98, 98, 225);
+}
+
+.buttons9 {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+.buttons9 b {
+    color: white;
+    background-color: #2F58CD;
+    font-size: 10px;
+}
+
+.section9 {
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+.down button{
+    margin-left: 140px;
+    margin-top: 15px;
+    color: white;
+    background-color: #2F58CD;
+}
+
+.end {
+    display: flex;
+    justify-content: center;
+    margin-top: 110px;
+    color: #a09d8e;
+    font-size: 12px;
+}
+
+.last{
+    display: flex;
+    justify-content: center;
+    color: #a09d8e;
+    font-size: 12px;
+    margin-top: 12px;
+}
+
+
+
+
+
+
